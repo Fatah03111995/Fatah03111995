@@ -2,7 +2,7 @@
 - 👀 I’m interested in front end and back end development
 - 🌱 I’m currently learning react.js, node.js, flutter
 - 💞️ I’m looking to collaborate on web and application development
-- 📫 How to reach me ...
+- 📫 fatah03111995@gmail.com
 
 <!---
 Fatah03111995/Fatah03111995 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
