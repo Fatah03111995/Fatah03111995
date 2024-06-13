@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Fatah03111995
-- 👀 I’m interested in front end and back end development
+- 👀 I’m interested in Mobile App Developer
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on web and application development
 - 📫 fatah03111995@gmail.com
